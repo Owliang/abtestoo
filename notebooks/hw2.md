@@ -36,7 +36,7 @@
 
 * [ ] We can never determine if the null hypothesis being true.
 
-* [ ] We can run one or as many experiments as we want using the same significance level.
+* [X] We can run one or as many experiments as we want using the same significance level.
 
 * [X] If we have too many samples in each group, the validity of the test can be jeopardized.
 
