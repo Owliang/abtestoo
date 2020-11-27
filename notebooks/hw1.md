@@ -43,17 +43,17 @@
 | 2020-11-30 | C    | visit    |
 | 2020-12-05 | C    | purchase |
 
-   event-based แบ่ง journey เป็น
-     ของ A มี 1 journey และ 1 success
-     ของ B มี 2 journey และ 0 success
-     ของ C มี 1 journey และ 0 success
-     event-based conversion rate = 1/3
+   event-based แบ่ง journey เป็น  
+     ของ A มี 1 journey และ 1 success  
+     ของ B มี 2 journey และ 0 success  
+     ของ C มี 1 journey และ 0 success  
+     event-based conversion rate = 1/3  
    
-   cohoet-based แบ่ง journey เป็น
-     ของ A มี 1 journey และ 1 success
-     ของ B มี 2 journey และ 0 success
-     ของ C มี 1 journey และ 1 success
-     cohort-based conversion rate = 2/3
+   cohoet-based แบ่ง journey เป็น  
+     ของ A มี 1 journey และ 1 success  
+     ของ B มี 2 journey และ 0 success  
+     ของ C มี 1 journey และ 1 success  
+     cohort-based conversion rate = 2/3  
 
 4. Give 3 examples of values that are usually distributed in the following manner (do not use examples from class):
 
