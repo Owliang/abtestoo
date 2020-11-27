@@ -34,7 +34,7 @@
 
 * [ ] We can never know when to stop the experiments.
 
-* [X] We can never determine if the null hypothesis being true.
+* [ ] We can never determine if the null hypothesis being true.
 
 * [ ] We can run one or as many experiments as we want using the same significance level.
 
