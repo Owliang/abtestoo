@@ -24,7 +24,7 @@
 
 2. What are the metrics you should use for the following A/B tests? Assume that the granularities are: page views and unique visitors.
 
-* Which button colors will make customers find it more easily? clicks / sessions
+* Which button colors will make customers find it more easily? clicks / hits
 
 * Which sets of products on a landing page will make customers more likely to buy? purchases / cookies
 
