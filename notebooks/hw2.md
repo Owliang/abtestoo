@@ -8,9 +8,9 @@
 
 * [ ] Based on the observed data, what is the probability of the null hypothesis being true.
 
-* [ ] Based on the observed data, what is the probability of the null hypothesis being false.
+* [X] Based on the observed data, what is the probability of the null hypothesis being false.
 
-* [ ] Assuming that our hypothesis is true, what is the chance that we reject the null hypothesis.
+* [X] Assuming that our hypothesis is true, what is the chance that we reject the null hypothesis.
 
 3. If we conduct a frequentist statistical test at 5% significance level repeatedly for 4,000 times, how many times can we expect to have statistically significant results even if group A and B are exactly the same?
 
@@ -30,15 +30,15 @@
 
 6. Which of the following are true about frequentist A/B tests? (True/False)
 
-* [ ] It does not tell us the magnitude of the difference between control and test groups.
+* [X] It does not tell us the magnitude of the difference between control and test groups.
 
 * [ ] We can never know when to stop the experiments.
 
-* [ ] We can never determine if the null hypothesis being true.
+* [X] We can never determine if the null hypothesis being true.
 
 * [ ] We can run one or as many experiments as we want using the same significance level.
 
-* [ ] If we have too many samples in each group, the validity of the test can be jeopardized.
+* [X] If we have too many samples in each group, the validity of the test can be jeopardized.
 
 * [ ] If you have set up the experiment based on desired minimum detectable effect and significance level, statististical significance is the only factor in determining which group is the better one.
 
